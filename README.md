@@ -1,6 +1,6 @@
 # Internet applications
 
-## Final Project from Politechnika Poznańska
+Final Project of Politechnika Poznańska (Poland) University.
 
 ## Overview
 
