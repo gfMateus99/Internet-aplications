@@ -1,6 +1,9 @@
-# Internet applications
+# Internet applications Project 
 
-Final Project of Politechnika Poznańska (Poland) University.
+Repository with the final project of internet applications course (2021/2022). (Politechnika Poznańska (Poland) University)
+
+**Project description:** The aim of this project is to create an online tournament system. The system should allow its users to conduct tournaments in a discipline selected by students. The organizers can set a time and place of the tournament, limits on the number of participants and sponsor logos while competitors can apply to participate and enter the results of their encounters.
+
 
 ## Overview
 
