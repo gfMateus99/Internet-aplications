@@ -7,7 +7,7 @@ Repository with the final project of internet applications course (2021/2022). (
 
 ## Overview
 
-Project created in react, with the database host in Google Firebase. This project aimed to develop an app where students could create and participate in tournaments. Students participating in tournaments could insert the results of each game, and if both results of students were compatible, the students that won could advance to the next phase.
+**Project description:** The aim of this project is to create an online tournament system. The system should allow its users to conduct tournaments in a discipline selected by students. The organizers can set a time and place of the tournament, limits on the number of participants and sponsor logos while competitors can apply to participate and enter the results of their encounters. Project was developed in react, with the database host in Google Firebase. 
 
 ## Available Scripts
 
